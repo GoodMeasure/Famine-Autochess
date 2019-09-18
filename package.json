@@ -1,0 +1,22 @@
+{
+  "name": "ticketmaster-backend",
+  "version": "1.0.0",
+  "description": "Ticketmaster Backend Repo for Group 3 (Colin Santee, Kyle Morgan, Samuel Giarratana)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/cjsantee/ticketmaster-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/cjsantee/ticketmaster-backend/issues"
+  },
+  "homepage": "https://gitlab.com/cjsantee/ticketmaster-backend#readme",
+  "dependencies": {
+    "mongodb": "^3.3.2"
+  }
+}
